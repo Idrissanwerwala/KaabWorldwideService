@@ -1,0 +1,106 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 06 Feb 2026 23:00:21 at https://kaabworldwidetarot.shop/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwr10%e0C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kaabworldwidetarot.shop/ -O1 "D:\idris\New-Site\kaabworldwidetarot-local" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:01:04	Error: 	"Method Not Allowed" (405) at link https://kaabworldwidetarot.shop/xmlrpc.php (from https://kaabworldwidetarot.shop/)
+23:02:23	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-4.jpg (from https://kaabworldwidetarot.shop/)
+23:02:23	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-3.jpg (from https://kaabworldwidetarot.shop/)
+23:02:23	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-07-at-1.54.48-PM-1.jpeg (from https://kaabworldwidetarot.shop/)
+23:02:40	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=60
+23:02:40	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=60 to https://kaabworldwidetarot.shop/about-us/
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-12.jpg (from https://kaabworldwidetarot.shop/about-us/)
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-13.jpg (from https://kaabworldwidetarot.shop/about-us/)
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-14.jpg (from https://kaabworldwidetarot.shop/about-us/)
+23:02:40	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=888
+23:02:40	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=888 to https://kaabworldwidetarot.shop/our-team/
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-2.jpg (from https://kaabworldwidetarot.shop/our-team/)
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-1.jpg (from https://kaabworldwidetarot.shop/our-team/)
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-5.jpg (from https://kaabworldwidetarot.shop/our-team/)
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image.jpg (from https://kaabworldwidetarot.shop/our-team/)
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-6.jpg (from https://kaabworldwidetarot.shop/our-team/)
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-19.jpg (from https://kaabworldwidetarot.shop/our-team/)
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-17.jpg (from https://kaabworldwidetarot.shop/our-team/)
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-16.jpg (from https://kaabworldwidetarot.shop/our-team/)
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-15.jpg (from https://kaabworldwidetarot.shop/our-team/)
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-11.jpg (from https://kaabworldwidetarot.shop/our-team/)
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-10.jpg (from https://kaabworldwidetarot.shop/our-team/)
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-9.jpg (from https://kaabworldwidetarot.shop/our-team/)
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-8.jpg (from https://kaabworldwidetarot.shop/our-team/)
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-7.jpg (from https://kaabworldwidetarot.shop/our-team/)
+23:02:40	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/wp-content/uploads/2025/11/image-18.jpg (from https://kaabworldwidetarot.shop/our-team/)
+23:02:40	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=64
+23:02:40	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=64 to https://kaabworldwidetarot.shop/service/
+23:02:41	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=583
+23:02:41	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=583 to https://kaabworldwidetarot.shop/blog/
+23:02:57	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=62
+23:02:57	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=62 to https://kaabworldwidetarot.shop/contact-us/
+23:02:58	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=216
+23:02:58	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=216 to https://kaabworldwidetarot.shop/affiliate-marketing/
+23:02:58	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=212
+23:02:58	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=212 to https://kaabworldwidetarot.shop/brand-marketing/
+23:02:58	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=214
+23:02:58	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=214 to https://kaabworldwidetarot.shop/digital-marketing/
+23:02:58	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=221
+23:02:58	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=221 to https://kaabworldwidetarot.shop/social-media-marketing/
+23:02:59	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=941
+23:02:59	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=941 to https://kaabworldwidetarot.shop/paid-meta-advertisment/
+23:02:59	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=951
+23:02:59	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=951 to https://kaabworldwidetarot.shop/paid-google-advertisement/
+23:02:59	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=1060
+23:02:59	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=1060 to https://kaabworldwidetarot.shop/followers-growth-services/
+23:02:59	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=1069
+23:02:59	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=1069 to https://kaabworldwidetarot.shop/likes-views-engagement-services/
+23:02:59	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=1074
+23:02:59	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=1074 to https://kaabworldwidetarot.shop/comments-share-interaction-services/
+23:02:59	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=289
+23:02:59	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=289 to https://kaabworldwidetarot.shop/brand-identity/
+23:02:59	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=285
+23:02:59	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=285 to https://kaabworldwidetarot.shop/visual-branding/
+23:02:59	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=287
+23:02:59	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=287 to https://kaabworldwidetarot.shop/budget-analysis/
+23:02:59	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=845
+23:02:59	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=845 to https://kaabworldwidetarot.shop/comments-share-interaction-services-create-conversations-that-matter/
+23:02:59	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=843
+23:02:59	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=843 to https://kaabworldwidetarot.shop/likes-views-engagement-services-amplify-your-reach-and-popularity/
+23:03:00	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=841
+23:03:00	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=841 to https://kaabworldwidetarot.shop/followers-growth-services-build-a-loyal-and-engaged-community/
+23:03:00	Warning: 	Found for https://kaabworldwidetarot.shop/wp-admin/
+23:03:00	Warning: 	File has moved from https://kaabworldwidetarot.shop/wp-admin/ to https://kaabworldwidetarot.shop/wp-login.php?redirect_to=https%3A%2F%2Fkaabworldwidetarot.shop%2Fwp-admin%2F&reauth=1
+23:03:01	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/n,window.location.origin (from https://kaabworldwidetarot.shop/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.33.4)
+23:03:01	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/t,window.location.origin (from https://kaabworldwidetarot.shop/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.33.4)
+23:03:01	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/plugins.php (from https://kaabworldwidetarot.shop/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.33.4)
+23:03:01	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/OPR/ (from https://kaabworldwidetarot.shop/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.33.4)
+23:03:01	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/cute-alert.js (from https://kaabworldwidetarot.shop/wp-content/plugins/metform/public/assets/lib/cute-alert/cute-alert.js?ver=4.0.5)
+23:03:01	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/${i}/img/${e}.svg (from https://kaabworldwidetarot.shop/wp-content/plugins/metform/public/assets/lib/cute-alert/cute-alert.js?ver=4.0.5)
+23:03:01	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/Trident/ (from https://kaabworldwidetarot.shop/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.33.4)
+23:03:01	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/e,window.location.origin (from https://kaabworldwidetarot.shop/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.6.1)
+23:03:01	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=839
+23:03:01	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=839 to https://kaabworldwidetarot.shop/paid-google-advertisement-reach-customers-when-they-need-you-most/
+23:03:01	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=837
+23:03:01	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=837 to https://kaabworldwidetarot.shop/paid-meta-advertisement-boost-your-brand-with-facebook-instagram-ads/
+23:03:01	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=635
+23:03:01	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=635 to https://kaabworldwidetarot.shop/budget-analysis-make-smart-financial-decisions-for-your-business/
+23:03:01	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=633
+23:03:01	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=633 to https://kaabworldwidetarot.shop/visual-branding-build-a-strong-identity-for-your-business/
+23:03:01	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=600
+23:03:01	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=600 to https://kaabworldwidetarot.shop/brand-identity-why-it-matters-more-than-ever/
+23:03:01	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=598
+23:03:01	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=598 to https://kaabworldwidetarot.shop/social-media-marketing-driving-engagement-and-sales-in-2025/
+23:03:01	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=596
+23:03:01	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=596 to https://kaabworldwidetarot.shop/email-marketing-still-the-most-powerful-tool-for-conversions/
+23:03:01	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=594
+23:03:01	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=594 to https://kaabworldwidetarot.shop/affiliate-marketing-a-profitable-strategy-for-businesses-individuals/
+23:03:01	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=592
+23:03:01	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=592 to https://kaabworldwidetarot.shop/digital-marketing-trends-in-2025-every-business-should-know/
+23:03:01	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=590
+23:03:01	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=590 to https://kaabworldwidetarot.shop/brand-marketing-building-stronger-connections-with-your-audience/
+23:03:01	Warning: 	Moved Permanently for https://kaabworldwidetarot.shop/?p=588
+23:03:01	Warning: 	File has moved from https://kaabworldwidetarot.shop/?p=588 to https://kaabworldwidetarot.shop/the-ultimate-guide-to-seo-optimization-in-2025/
+23:03:01	Error: 	"Not Found" (404) at link https://kaabworldwidetarot.shop/contact-us/$&/ (from https://kaabworldwidetarot.shop/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1.1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 46 seconds : 514 links scanned, 450 files written (24474160 bytes overall) [11534420 bytes received at 69484 bytes/sec], 24006015 bytes transferred using HTTP compression in 425 files, ratio 35%, 45.3 requests per connection
+(31 errors, 64 warnings, 0 messages)
