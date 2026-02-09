@@ -13,7 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         exit;
     }
 
-    $to = "youremail@example.com"; // CHANGE THIS
+    $to = "idrissawerwala@gmail.com"; // CHANGE THIS
 
     $subject = "Website Contact: $sub";
 
