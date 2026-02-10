@@ -246,7 +246,7 @@
         .enquiry-panel {
             display: none;
             position: fixed;
-            top: 20px;
+            top: 5px;
             right: 20px;
             width: 340px;
             background: linear-gradient(180deg, #ca6d0a 0%, #ff971c 85px, #ffffff 85px);
@@ -278,7 +278,7 @@
             color: #fff;
             font-size: 20px;
             font-weight: 600;
-            padding: 20px 18px;
+            padding: 10px 12px;
             margin: 0;
             text-align: center;
             letter-spacing: 0.6px;
@@ -286,7 +286,7 @@
 
         /* ================= FORM WRAPPER ================= */
         .cf7-wrapper {
-            padding: 18px 20px 22px;
+            padding: 10px 15px 18px;
             background: #fff;
         }
 
@@ -304,7 +304,7 @@
         .cf7-textarea {
             width: 100%;
             padding: 12px 13px;
-            margin-top: 6px;
+            margin-top: 4px;
             border: 1.6px solid #d9d9d9;
             border-radius: 9px;
             font-size: 14px;
@@ -4073,29 +4073,53 @@
                                             <ul></ul>
                                         </div>
 
-                                        <form action="https://excel-infotech.in/idris/send-mail.php" method="post"
+                                        <form action="https://excel-infotech.in/idris/send-mail.php"
+                                            method="post"
                                             class="cf7-form"
                                             aria-label="Contact form"
-                                            novalidate="novalidate">
+                                            novalidate>
 
                                             <label class="cf7-label">
-                                                Your name
-                                                <input type="text" name="mf-first-name" class="cf7-input" required>
+                                                Your first name
+                                                <input type="text"
+                                                    name="mf-first-name"
+                                                    class="cf7-input"
+                                                    placeholder="Enter your full name"
+                                                    required>
+                                            </label>
+
+                                            <label class="cf7-label">
+                                                Your last name
+                                                <input type="text"
+                                                    name="mf-last-name"
+                                                    class="cf7-input"
+                                                    placeholder="Enter your full name"
+                                                    required>
                                             </label>
 
                                             <label class="cf7-label">
                                                 Your email
-                                                <input type="email" name="mf-email" class="cf7-input" required>
+                                                <input type="email"
+                                                    name="mf-email"
+                                                    class="cf7-input"
+                                                    placeholder="Enter your email"
+                                                    required>
                                             </label>
 
                                             <label class="cf7-label">
                                                 Subject
-                                                <input type="text" name="mf-subject" class="cf7-input" required>
+                                                <input type="text"
+                                                    name="mf-subject"
+                                                    class="cf7-input"
+                                                    placeholder="Enter subject"
+                                                    required>
                                             </label>
 
                                             <label class="cf7-label">
                                                 Your message (optional)
-                                                <textarea name="mf-comment" class="cf7-textarea"></textarea>
+                                                <textarea name="mf-comment"
+                                                        class="cf7-textarea"
+                                                        placeholder="Write your message here..."></textarea>
                                             </label>
 
                                             <button type="submit" class="cf7-submit-btn">
@@ -4104,6 +4128,7 @@
 
                                             <div class="cf7-response"></div>
                                         </form>
+
                                     </div>
                                 </div>
                             </div>
